@@ -15,7 +15,7 @@
                 Home
             </b-navbar-item>
             <b-navbar-item tag="router-link" :to="{ path: '/sobre' }">
-                Sobre
+                Produtos
             </b-navbar-item>
         </template>
 
